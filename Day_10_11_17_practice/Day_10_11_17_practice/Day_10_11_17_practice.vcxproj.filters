@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Day_09_扫雷\Day_09_扫雷\源.cpp">
+    <ClCompile Include="practice.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
